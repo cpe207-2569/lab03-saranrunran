@@ -1,0 +1,23 @@
+.th {
+    font-family: "Noto Sans Thai", sans-serif;
+}
+
+.mynav {
+    font-family: "Noto Sans Thai", sans-serif;
+
+    display: flex;
+    justify-content: center;
+
+    background-color: rgb(0, 0, 0);
+}
+
+.mybutton {
+    background-color: rgb(0, 0, 0);
+    text-decoration: none;
+    color: white;
+}
+
+.mybutton:hover {
+    background-color: rgb(151, 151, 151);
+    transition: 0.5s;
+}
