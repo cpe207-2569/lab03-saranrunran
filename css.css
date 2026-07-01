@@ -21,3 +21,16 @@
     background-color: rgb(151, 151, 151);
     transition: 0.5s;
 }
+
+.mylink {
+    text-decoration: none;
+    color: black;
+}
+
+.mylink:hover {
+    text-decoration: underline;
+}
+
+.bg-nude {
+    background-color: rgb(234, 234, 234);
+}
